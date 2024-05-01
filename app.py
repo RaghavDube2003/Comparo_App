@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 from PIL import Image
 
 # Loading Image using PIL
-im = Image.open('https://i.ibb.co/4Z90YHc/comparo.jpg')
+im = Image.open('comparo.jpg')
 
 # Set page configuration
 st.set_page_config(
