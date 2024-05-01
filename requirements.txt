@@ -1,0 +1,11 @@
+beautifulsoup4
+langchain
+langchain_google_genai
+matplotlib
+pandas
+Pillow
+plotly
+python-dotenv
+Requests
+streamlit
+streamlit_option_menu
